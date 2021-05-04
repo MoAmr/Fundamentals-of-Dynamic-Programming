@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="199f0202-9e40-4dc8-a2b5-10cb1d07bf36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flower-box-problem/Flower-box-problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Change-making-problem/Change-making-problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flower-box-problem/Flower-box-problem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Change-making-problem/Change-making-problem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -41,6 +50,7 @@
         <option value="$PROJECT_DIR$/Speeding-up-calculations-with-memoization/Fibonacci-memoization.py" />
         <option value="$PROJECT_DIR$/Bottom-up-approach-to-dynamic-programming/Bottom-up-Approach.py" />
         <option value="$PROJECT_DIR$/Flower-box-problem/Flower-box-problem.py" />
+        <option value="$PROJECT_DIR$/Change-making-problem/Change-making-problem.py" />
       </list>
     </option>
   </component>
@@ -65,7 +75,7 @@
             <path>
               <item name="Fundamentals-of-Dynamic-Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fundamentals-of-Dynamic-Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Flower-box-problem" type="462c0819:PsiDirectoryNode" />
+              <item name="Change-making-problem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -97,7 +107,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Flower-box-problem">
+  <component name="RunManager" selected="Python.Change-making-problem">
+    <configuration name="Change-making-problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fundamentals-of-Dynamic-Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Change-making-problem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Change-making-problem/Change-making-problem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Fibonacci-memoization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fundamentals-of-Dynamic-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,6 +176,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Change-making-problem" />
         <item itemvalue="Python.Flower-box-problem" />
         <item itemvalue="Python.Fibonacci-memoization" />
       </list>
@@ -159,12 +192,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620058328233</updated>
-      <workItem from="1620058330430" duration="2097000" />
+      <workItem from="1620058330430" duration="4371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2097000" />
+    <option name="totallyTimeSpent" value="4371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="726" y="0" width="714" height="900" extended-state="0" />
@@ -197,6 +230,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Fundamentals_of_Dynamic_Programming$Change_making_problem.coverage" NAME="Change-making-problem Coverage Results" MODIFIED="1620161707826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Change-making-problem" />
     <SUITE FILE_PATH="coverage/Fundamentals_of_Dynamic_Programming$Flower_box_problem.coverage" NAME="Flower-box-problem Coverage Results" MODIFIED="1620083806743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flower-box-problem" />
     <SUITE FILE_PATH="coverage/Fundamentals_of_Dynamic_Programming$Fibonacci_memoization.coverage" NAME="Fibonacci-memoization Coverage Results" MODIFIED="1620058900528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Speeding-up-calculations-with-memoization" />
   </component>
@@ -223,8 +257,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Flower-box-problem/Flower-box-problem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Change-making-problem/Change-making-problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
         </state>
       </provider>
     </entry>
